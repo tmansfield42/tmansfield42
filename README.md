@@ -21,7 +21,7 @@ Right now I'm hunting for my a full time role in the NYC metro area and actively
 
 ### 📂 Quick Links
 
-- [**Tech Journal**](https://github.com/tmansfield42/Tech-Journal/wiki) - All my coursework, labs, and project documentation
+- [**Tech Journal**](https://github.com/tmansfield42/Tech-Journal/wiki) - All my projects, labs, and coursework documentation
 - [**ProbePoint Capstone**](https://github.com/tmansfield42/Capstone) - Network vulnerability scanner with AWS serverless backend
 - Reach out via [email](mailto:mikemansfield13@gmail.com) if you want to chat
 
