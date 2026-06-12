@@ -17,7 +17,7 @@ BS in Computer Networking & Cybersecurity, Cum Laude<br>
 
 Studied at Champlain with a focus on network security, system administration, and digital forensics. I spent most of my time working at the **Leahy Center for Digital Forensics & Cybersecurity** in roles ranging from Security Technician to IT Analyst, with a summer at **Union Mutual** doing IT Ops. 
 
-Right now I'm hunting for my a full time role in the NYC metro area and actively pursuing my Security+.
+Right now I'm hunting for a full time role in the NYC metro area and actively pursuing my Security+.
 
 ### 📂 Quick Links
 
